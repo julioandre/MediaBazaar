@@ -1,0 +1,19 @@
+
+body {
+	background: url(../images/town.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+  color: white;
+}
+.container{
+	align-content: center;
+	margin-left:45%;
+	margin-top: 15%;
+}
+.fa-user{
+	padding-left: 0.5em;
+}
+.empID{
+	margin-top: 15px;
+}
